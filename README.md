@@ -1,8 +1,15 @@
+# GDG Devfest Granada 2016
+
+
 ![preview-web](https://cloud.githubusercontent.com/assets/2954281/17777476/5dbbbe1c-6569-11e6-9cc4-77185ae9bf92.png)
 
-# Project Hoverboard 
+# Current progress
 
-[![Join the chat at https://gitter.im/gdg-x/hoverboard](https://badges.gitter.im/gdg-x/hoverboard.svg)](https://gitter.im/gdg-x/hoverboard?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+GDG Granada team were started working to custom this app.
+
+
+
+# Project Hoverboard 
 
 > Project Hoverboard is the next generation conference website template after 
 [Project Zeppelin](https://github.com/gdg-x/zeppelin) and more optimized 
@@ -13,20 +20,6 @@ from [GDG Lviv](http://lviv.gdg.org.ua/).
 
 > *Do you :heart: it?* Show your support - please, :star: the project.
 
-:zap: [Live demo](https://hoverboard-dev.firebaseapp.com/)
-
-### Features
-:white_check_mark: Polymer  
-:white_check_mark: [PRPL pattern](https://www.polymer-project.org/1.0/toolbox/server)  
-:white_check_mark: Offline access  
-:white_check_mark: i18n  
-:white_check_mark: Material design  
-:white_check_mark: Animations  
-:white_check_mark: Integrated speakers and sessions management  
-:white_check_mark: SEO friendly  
-:white_check_mark: Optimized and fast  
-:white_check_mark: Editable theme colors  
-:white_check_mark: Quick deploy  
 
 ### Setup
 :book: [Full documentation](/docs/).
@@ -101,42 +94,6 @@ git merge upstream/master # OR git merge upstream/develop
 git add . -u
 git commit -m 'Updated to the latest version'
 ```
-
-### Who uses the template?
-
-Going to use the template? Go on! The only thing we ask - let us know with a 
-pull request, so we can include you in this list.
-
-| [GDG DevFest Ukraine](http://devfest.gdg.org.ua) |
-| :------------ |
-| [GDG DevFest Sao Paulo](http://sp.devfest.com.br)  |
-| [GDG DevFest Hamburg 2015](http://devfest.de)  |
-| [GDG DevFest Mezam 2015](https://devfest-mezam.gdgbambili.xyz) |
-| [GDG DevFest Silicon Valley 2015](http://devfest2015.gdgsv.com/) |
-| [GDG DevFest Belgium 2015](http://devfest.be/) |
-| [GDG DevFest South East Nigeria 2015](http://www.devfestse.com) |
-| [GDG DevFest Istanbul 2015](https://www.devfesttr.com) |
-| [GDG Cáceres CodeWeek 2015](http://codeweek.gdgcaceres.es) |
-| [GDG Bingham University Website](http://bhu.gdg.ng) |
-| [Google I/O Extended 2016 Kuala Lumpur](https://ioxkl2016.firebaseapp.com) |
-| [GDG DevFest Hamburg 2016](https://hamburg.devfest.de) |
-| [GDG DevFest Mezam 2016](https://devfest-mezam.gdgbambili.xyz) |
-| [GDG DevFest Vietnam 2016](https://devfest.vn) |
-| [GDG DevFest Seattle 2016](https://devfest.gdgseattle.org) |
-| [GDG DevFest Belgium 2016](https://devfest.be) |
-| [GDG DevFest Lisbon 2016](https://devfestlisbon.firebaseapp.com) |
-| [GDG DevFest Sudbury 2016](https://devfest.gdgsudbury.ca) |
-| [GDG DevFest Hong Kong 2016](https://devfest.gdghk.org) |
-
-### Roadmap :rocket:
-:x: Admin panel  
-:x: Firebase Integration   
-:x: My schedule  
-:x: Push notification  
-:x: ES2015  
-:x: Accessibility  
-:x: Unit/Integration Tests  
-:point_right: __Propose your feature with [creating an issue](https://github.com/gdg-x/hoverboard/issues/new)__
 
 ### Contributing
 
