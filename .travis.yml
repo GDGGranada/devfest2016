@@ -1,0 +1,36 @@
+language: node_js
+sudo: required
+dist: trusty
+node_js:
+  - '6'
+cache:
+  directories:
+    - node_modules
+branches:
+  except:
+    - /^v\d/
+install:
+  - npm install
+  - npm install -g bower
+  - bower install
+before_script:
+  - npm run lint
+script:
+  - npm test
+before_deploy:
+  - npm run build
+deploy:
+  - provider: firebase
+    edge: true
+    skip_cleanup: true
+    project: devfest-grx-develop
+    token: $FIREBASE_TOKEN
+    on:
+      branch: develop
+  - provider: firebase
+    edge: true
+    skip_cleanup: true
+    project: devfest-grx
+    token: $FIREBASE_TOKEN
+    on:
+      branch: master
