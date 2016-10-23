@@ -14,7 +14,7 @@ install:
   - npm install -g bower
   - bower install
 before_deploy:
-  - npm run build
+  - polymer build
 deploy:
   - provider: firebase
     edge: true
