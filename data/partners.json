@@ -4,8 +4,8 @@
     "logos": [
       {
         "name": "GDG Granada",
-        "url": "https://plus.google.com/102444623953913144164",
-        "logoUrl": "../images/logos/gdg-lviv.svg",
+        "url": "https://gdggranada.com",
+        "logoUrl": "../images/logos/gdg-granada.svg",
         "width": 400
       }
     ]
@@ -19,9 +19,9 @@
         "logoUrl": "../images/logos/google.svg"
       },
       {
-        "name": "ETSIIT UGR",
-        "url": "http://etsiit.ugr.es/",
-        "logoUrl": "../images/logos/etsiit.gif"
+        "name": "ETSIIT",
+        "url": "https://etsiit.ugr.es",
+        "logoUrl": "../images/logos/co-etsiit.png"
       }
     ]
   }
