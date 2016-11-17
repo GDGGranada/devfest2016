@@ -52,6 +52,14 @@
       "permalink": "/"
     },
     {
+      "route": "schedule",
+      "permalink": "/schedule/"
+    },
+    {
+      "route": "speakers",
+      "permalink": "/speakers/"
+    },
+    {
       "route": "team",
       "permalink": "/team/"
     }
@@ -156,8 +164,8 @@
     }
   },
   "location": {
-    "apiKey": "",
-    "link": "https://www.facebook.com/expopivdennij",
+    "apiKey": "AIzaSyCxDmt5pZ5inVF2cs-NMsWXajtEZ6Oz51g",
+    "link": "",
     "pointer": {
       "latitude": 37.1968773,
       "longitude": -3.6246368,

@@ -82,7 +82,7 @@
   "date": "2016-11-25",
   "dateReadable": "25 Noviembre",
   "tracks": [{
-    "title": "Salón de Actos"
+    "title": "Salon de Actos"
   }, {
     "title": "Aula -1.2"
   }],
@@ -122,7 +122,7 @@
     "startTime": "13:30",
     "endTime": "14:00",
     "sessions": [
-      [207]
+      [205]
     ]
   }
   ]

@@ -22,6 +22,16 @@
         "name": "ETSIIT",
         "url": "https://etsiit.ugr.es",
         "logoUrl": "../images/logos/co-etsiit.png"
+      },
+      {
+        "name": "JetBrains",
+        "url": "https://www.jetbrains.com/",
+        "logoUrl": "../images/logos/jetbrains.svg"
+      },
+      {
+        "name": "Createc 3d",
+        "url": "https://createc3d.com/",
+        "logoUrl": "../images/logos/createc3d.png"
       }
     ]
   }
