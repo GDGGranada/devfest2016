@@ -42,6 +42,23 @@
           }
         ],
         "title": "Organizer"
+      },
+      {
+        "name": "Javier Ramirez",
+        "photoUrl": "/images/people/javi.png",
+        "socials": [
+          {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/javiramirezcapilla"
+          },
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/xlramirez"
+          }
+        ],
+        "title": "Prensa"
       }
     ]
   }

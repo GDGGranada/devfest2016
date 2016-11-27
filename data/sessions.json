@@ -41,7 +41,7 @@
   },
   "202": {
     "id": 202,
-    "title": "GDG DevFest Madrid 2016 Opening & Keynote",
+    "title": "GDG DevFest Granada 2016 Opening & Keynote",
     "description": "Keynote",
     "image": "/images/backgrounds/opening.jpg"
   },
@@ -66,10 +66,10 @@
   },
   "113": {
     "id": 113,
-    "title": "Impresoras 3D",
-    "description": "Detalles por confirmar",
+    "title": "Robótica, programación e Impresión 3D",
+    "description": "La tecnología forma parte de nuestra vida cotidiana y ahora con la impresión 3D, el software y hardware libre, tenemos al alcance de nuestra mano las herramientas necesarias para desarrollar proyectos innovadores a bajo coste.",
     "speakers": [
-      9
+      7
     ],
     "language": "Español",
     "complexity": "Inicial",
@@ -95,7 +95,7 @@
     "title": "Comunidades de desarrollo de software libre: el caso de Granada",
     "description": "Dentro de las provincias españolas hay algunas en las que la cantidad de personas que tienen una cuenta activa en GitHub es considerable, por encima de la población e incluso de la actividad económica. Granada es una de ellas y posiblemente se debe a un factor que normalmente no se analiza en relación con la programación: el factor social.En esta ponencia examinaremos la comunidad de desarrolladores de software libre en Granada, comparándola con otras provincias similares, y la red compleja que une a los mismo que, posiblemente sea la clave de su vitalidad. ",
     "speakers": [
-      31
+      8
     ],
     "language": "Español",
     "complexity": "Inicial",
@@ -121,7 +121,7 @@
     "title": "Cómo usamos Google para ganar dinero sin vender ni un juego",
     "description": "¿Se puede ganar dinero con los videojuegos o las apps sin vender  nada? ... la respuesta es sí (lo se, a nosotros también nos sorprendió), y os voy a contar como lo hacemos, algo que no vas a aprender en ningún otro sitio (por lo menos de los que yo haya visitado).No todo es color de rosa, pero tampoco es negro. A veces es solo decidir entre dulce o saladito. Si estás pensando que en el futuro vas a tener que autoemplearte y generarte tu sueldo desde cero esta es tu charla.",
     "speakers": [
-      41
+      9
     ],
     "language": "Español",
     "complexity": "Inicial",

@@ -99,7 +99,7 @@
     "country": "Madrid, España",
     "photoUrl": "/images/people/esteban2.jpg",
     "shortBio": "Ingeniero informático y un early adopter de las nuevas tecnologias. Actualmente trabaja en BEEVA como desarollador en el área de Iaas & Open Systems.",
-    "bio": "Ingeniero informático y un early adopter de las nuevas tecnologias, actualmente trabaja en BEEVA como desarolladora en el área de Iaas & Open Systems. Miembro de GDGSpain participando activamente en varios GDGs (Google Developers Groups) y organizador del GDG Granada.",
+    "bio": "Ingeniero informático y un early adopter de las nuevas tecnologias, actualmente trabaja en BEEVA como desarollador en el área de Iaas & Open Systems. Miembro de GDGSpain participando activamente en varios GDGs (Google Developers Groups) y organizador del GDG Granada.",
     "tags": [
       "Cloud", "Firebase"
     ],
@@ -122,67 +122,8 @@
       }
     ]
   },
-  "31": {
-    "id": 3,
-    "featured": false,
-    "name": "JJ Merelo",
-    "title": "Profesor en la universidad de Granada",
-    "company": "Universidad de Granada",
-    "companyLogo": "",
-    "country": "Granada, España",
-    "photoUrl": "/images/people/jj.jpg",
-    "shortBio": "Profesor en la universidad de Granada, director de la Oficina de Software Libre. Programador en Perl.",
-    "bio": "Profesor en la universidad de Granada, director de la Oficina de Software Libre. Programador en Perl.",
-    "tags": [
-      "Community"
-    ],
-    "badges": [
-      {
-        "name": "Universidad de Granada",
-        "description": "Profesor en la universidad de Granada"
-      }
-    ],
-    "socials": [
-      {
-        "icon": "github",
-        "name": "GitHub",
-        "link": "https://github.com/JJ"
-      }
-    ]
-  },
-  "41": {
-    "id": 41,
-    "featured": false,
-    "name": "Alfonso Jurado",
-    "title": "Game Designer, Analista Programador",
-    "company": "Estudio Nemo",
-    "companyLogo": "",
-    "country": "Granada, España",
-    "photoUrl": "/images/people/alfonso.jpg",
-    "shortBio": "Hace un año siguiendo con esa vocación que tiene cofundó Estudio Nemo... ",
-    "bio": "Hace un año siguiendo con esa vocación que tiene cofundó Estudio Nemo, una pequeña empresa dedicada al desarrollo multiplataforma de videojuegos y apps para dispositivos móviles. Junto a sus soci@s también crearon la asociación Granada Jam (de la que es presidente en funciones), se trata de una asociación de creadores de juegos de Granada, que trabaja para promover la cultura y profesionalización del desarrollo de videojuegos en esta ciudad. ",
-    "tags": [
-      "Videojuegos"
-    ],
-    "badges": [
-      {
-        "name": "Estudio Nemo",
-        "description": "Game Designer, Analista Programador"
-      }
-    ],
-    "socials": [
-      {
-        "icon": "facebook",
-        "name": "Facebook",
-        "link": "https://www.facebook.com/granadajam"
-      },
-      {
-        "icon": "twitter",
-        "name": "Twitter",
-        "link": "https://twitter.com/GranadaGameJam"
-      }
-    ]
-  },
+
+
   "5": {
     "id": 5,
     "featured": false,
@@ -259,27 +200,88 @@
       }
     ]
   },
-  "9": {
-    "id": 9,
+  "7": {
+    "id": 7,
     "featured": false,
-    "name": "TBD",
-    "title": "TBD",
+    "name": " Juan Robles de Toro",
+    "title": "Presidente",
     "company": "Createc 3D",
     "companyLogo": "",
     "country": "Granada, España",
-    "photoUrl": "/images/people/impresion.png",
-    "shortBio": "Detalles por confirmar",
-    "bio": "Detalles por confirmar",
+    "photoUrl": "/images/people/juan.jpg",
+    "shortBio": "Arquitecto por la ETSA de Granada. Especialista en Accesibilidad, Urbanismo y Prevención de Riesgos Laborables. Apasionado del mundo tecnológico, el movimiento maker y todo lo relacionado con la Impresión 3D y Open Source",
+    "bio": "Arquitecto por la ETSA de Granada. Especialista en Accesibilidad, Urbanismo y Prevención de Riesgos Laborables. Apasionado del mundo tecnológico, el movimiento maker y todo lo relacionado con la Impresión 3D y Open Source",
     "tags": [
       "Impresoras 3D"
     ],
     "badges": [
       {
         "name": "Createc 3D",
-        "description": "Detalles por confirmar"
+        "description": "Presidente"
       }
     ],
     "socials": [
+    ]
+  },
+  "8": {
+    "id": 8,
+    "featured": false,
+    "name": "JJ Merelo",
+    "title": "Profesor en la universidad de Granada",
+    "company": "Universidad de Granada",
+    "companyLogo": "",
+    "country": "Granada, España",
+    "photoUrl": "/images/people/jj.jpg",
+    "shortBio": "Profesor en la universidad de Granada, director de la Oficina de Software Libre. Programador en Perl.",
+    "bio": "Profesor en la universidad de Granada, director de la Oficina de Software Libre. Programador en Perl.",
+    "tags": [
+      "Community"
+    ],
+    "badges": [
+      {
+        "name": "Universidad de Granada",
+        "description": "Profesor en la universidad de Granada"
+      }
+    ],
+    "socials": [
+      {
+        "icon": "github",
+        "name": "GitHub",
+        "link": "https://github.com/JJ"
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "featured": false,
+    "name": "Alfonso Jurado",
+    "title": "Game Designer, Analista Programador",
+    "company": "Estudio Nemo",
+    "companyLogo": "",
+    "country": "Granada, España",
+    "photoUrl": "/images/people/alfonso.jpg",
+    "shortBio": "Hace un año siguiendo con esa vocación que tiene cofundó Estudio Nemo... ",
+    "bio": "Hace un año siguiendo con esa vocación que tiene cofundó Estudio Nemo, una pequeña empresa dedicada al desarrollo multiplataforma de videojuegos y apps para dispositivos móviles. Junto a sus soci@s también crearon la asociación Granada Jam (de la que es presidente en funciones), se trata de una asociación de creadores de juegos de Granada, que trabaja para promover la cultura y profesionalización del desarrollo de videojuegos en esta ciudad. ",
+    "tags": [
+      "Videojuegos"
+    ],
+    "badges": [
+      {
+        "name": "Estudio Nemo",
+        "description": "Game Designer, Analista Programador"
+      }
+    ],
+    "socials": [
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "link": "https://www.facebook.com/granadajam"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/GranadaGameJam"
+      }
     ]
   }
 }
